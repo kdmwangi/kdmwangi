@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-<img src="https://github.com/kdmwangi/kdmwangi/gif.gif" align="center" style="width: 100%" />
+<img src="gif.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -104,18 +104,15 @@ Here are some ideas to get you started:
 <br/>  
 
 
-## Github Stats  
   
 
 <br/>  
 
 
-## Recent Blog Posts  
   
 
 <br/>  
 
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
 
 <br/>  
 
